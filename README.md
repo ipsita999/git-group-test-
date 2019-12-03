@@ -1,4 +1,4 @@
 # git-group-test-
-const name = 'Andrew Kim'
 
+const name = 'Ipsita Rao'
 
